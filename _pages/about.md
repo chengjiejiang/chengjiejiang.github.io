@@ -6,7 +6,7 @@ subtitle: PhD student, <a href='https://www.nottingham.ac.uk/psychology/welcome-
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
