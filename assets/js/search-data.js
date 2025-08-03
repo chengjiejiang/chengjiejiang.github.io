@@ -11,14 +11,14 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "Publications",
-          description: "Peer-reviewed journal articles",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-presentations",
           title: "Presentations",
-          description: "Oral and poster presentations at academic conferences",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/presentations/";
