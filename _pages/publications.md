@@ -7,5 +7,5 @@ nav: true
 nav_order: 2
 ---
 
-Jiang, C., Filik, R. (2025). Expecting the unexpected: Examining the interplay between real-world knowledge and contextual cues during language comprehension. <span class="font-style-italic;">Memory & Cognition</span>. <a href='https://doi.org/10.3758/s13421-025-01689-x'>[link]
+Jiang, C., Filik, R. (2025). Expecting the unexpected: Examining the interplay between real-world knowledge and contextual cues during language comprehension. <em>Memory & Cognition</em>. <a href='https://doi.org/10.3758/s13421-025-01689-x'>[link]
 
