@@ -1,6 +1,6 @@
 ---
-layout: About
-title: About
+layout: about
+title: about
 permalink: /
 subtitle: PhD student, <a href='https://www.nottingham.ac.uk/psychology/welcome-to-psychology.aspx'>School of Psychology, University of Nottingham</a>.
 
@@ -9,7 +9,7 @@ profile:
   image: prof_pic.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p></p>
+    <p>Chengjie Jiang</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
