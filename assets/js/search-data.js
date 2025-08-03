@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-presentations",
           title: "Presentations",
-          description: "",
+          description: "Oral and poster presentations at academic conferences",
           section: "Navigation",
           handler: () => {
             window.location.href = "/presentations/";
