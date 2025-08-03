@@ -2,16 +2,16 @@
 layout: page
 permalink: /presentations/
 title: Presentations
-description:
+description: Oral and poster presentations at academic conferences
 nav: true
 nav_order: 3
 ---
 
-Talks
+<h3>Talks</h3>
 
 <span class="font-weight-bold">September 2025.</span> Jiang, C., van Heuven, W., & Filik, R. Is world knowledge activation exhaustive or selective? Evidence from bidirectional self-paced reading. Talk presented at the 31st Architectures and Mechanisms for Language Processing (AMLaP 31). Charles University, Czechia.
 
-Posters
+<h3>Posters</h3>
 
 <span class="font-weight-bold">September 2025.</span> Jiang, C., van Heuven, W., & Filik, R. Is world knowledge activation exhaustive or selective? Evidence from bidirectional self-paced reading. Poster presented at the 11th Experimental Pragmatics Conference (XPRAG 11). University of Cambridge, UK.
 
