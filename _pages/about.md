@@ -6,7 +6,7 @@ subtitle: PhD student, <a href='https://www.nottingham.ac.uk/psychology/welcome-
 
 profile:
   align: right
-  image: prof_pic.JPG
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Chengjie Jiang</p>
