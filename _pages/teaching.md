@@ -7,6 +7,11 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<h3>School of Psychology, University of Nottingham</h3>
+<span class="font-weight-bold">Practical Methods for Psychologists 1</span>
+Demonstrator & Coursework Marker
+Spring 2024, Spring 2025
 
-Organize your courses by years, topics, or universities, however you like it
+<span class="font-weight-bold">Practical Methods for Psychologists 2</span>
+Demonstrator & Coursework Marker
+Autumn 2024
