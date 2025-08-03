@@ -2,7 +2,7 @@
 layout: page
 permalink: /presentations/
 title: Presentations
-description: Oral and poster presentations at academic conferences
+description:
 nav: true
 nav_order: 3
 ---
