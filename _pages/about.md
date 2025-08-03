@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD student, <a href='https://www.nottingham.ac.uk/psychology/welcome-to-psychology.aspx'>School of Psychology, University of Nottingham</a>.
 
