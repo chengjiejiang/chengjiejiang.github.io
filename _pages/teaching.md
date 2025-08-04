@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description:
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
 <h4>School of Psychology, University of Nottingham</h4>
