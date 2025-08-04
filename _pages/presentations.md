@@ -12,7 +12,8 @@ nav_order: 3
 <span class="font-weight-bold">September 2025.</span> Jiang, C., van Heuven, W., & Filik, R. Is world knowledge activation exhaustive or selective? Evidence from bidirectional self-paced reading. Oral presentations at the 31st Architectures and Mechanisms for Language Processing (AMLaP 31). Charles University, Czechia.
 
 <span class="font-weight-bold">July 2025.</span> Jiang, C., van Heuven, W., & Filik, R. Is world knowledge activation exhaustive or selective during language comprehension? Evidence from bidirectional self-paced reading. Oral presentations at Experimental Psychology Society (EPS) Meeting. University of Dundee, UK.
-<br>
+
+<br><br>
 
 <h4>Posters</h4>
 
