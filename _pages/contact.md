@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-Please feel free to contact me using the details below:
+<span class="font-weight-bold">Please feel free to contact me using the details below:</span>
 
 School of Psychology,
 
