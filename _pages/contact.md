@@ -17,4 +17,4 @@ University Park
 
 Nottingham, NG7 2RD, UK
 
-Email: chengjie.jiang[at]nottingham[dot]ac[dot]uk
+Email: chengjie[dot]jiang[at]nottingham[dot]ac[dot]uk
