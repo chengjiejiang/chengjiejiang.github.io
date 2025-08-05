@@ -9,6 +9,8 @@ nav_order: 4
 
 <h4>School of Psychology, University of Nottingham</h4>
 
+<br>
+
 <span class="font-weight-bold">Practical Methods for Psychologists 1</span>
 
 Demonstrator & Coursework Marker
