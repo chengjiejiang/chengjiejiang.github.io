@@ -10,4 +10,4 @@ toc:
 sidebar: left
 ---
 
-My CV can be accessed <a href='https://chengjiejiang.github.io/main/assets/pdf/CV_CJ.pdf'>here</a> (last updated: August 2026).
+My CV can be accessed <a href='https://chengjiejiang.github.io/assets/pdf/CV_CJ.pdf'>here</a> (last updated: August 2026).
